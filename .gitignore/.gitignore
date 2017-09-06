@@ -1,0 +1,2 @@
+git remote add origin https://github.com/meltokhy/portofolio.git
+git push -u origin master
